@@ -101,11 +101,5 @@ deploy:
   type: git
   repo: https://github.com/imprintofworld/world
   branch: gh-pages
-  token: 'dd9703dce5e32b20cc66d1ff00f1259f236a038a'
-  message: [message]
-  name: imprintofworld
-  email: imprintofworld@gmail.com
-  extend_dirs: [extend directory]
-  ignore_hidden: false # default is true
-  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
+
 
